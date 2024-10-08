@@ -1,3 +1,10 @@
+<p>
+<img src="https://github.com/user-attachments/assets/dec23cb1-5f88-49f0-804c-fc14515be14d" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="2%"> 
+ <img src="https://github.com/user-attachments/assets/69e01e5c-3051-46e7-b57c-d47bd6d96af3" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="20%"> 
+ <img src="https://github.com/user-attachments/assets/b4c581e2-bcfb-4a7a-81e5-8b69f7143113" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="20%"> 
+ <img src="https://github.com/user-attachments/assets/c56702c3-6f9a-4004-a37e-f406621ee3e0" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="20%"> 
+  </p>
+
 # Medicine Recommendation System - UI
 
 This project is the User Interface (UI) of a **Medicine Recommendation System**. It allows users to filter and select diseases from a list using checkboxes. Once the user selects the relevant diseases and clicks the submit button, the system predicts their condition and suggests appropriate medications.
